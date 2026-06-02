@@ -1,0 +1,2 @@
+Hello World for the Odin Project
+Learning Git
